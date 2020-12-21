@@ -5,6 +5,7 @@
 - Api trabaja en el puerto:3000
 
 #Instalación
+
 Clonar el repositorio
 
 $ git clone ...
@@ -24,7 +25,7 @@ $ redis-server
 Correr el comando para inicializar al app, en una terminal distinta que donde se ejecuto redis
 $ nodemon server/server.js
 
-Paquete
+Paquetes
 
 - NodeJS
 - Express 4.17.1
